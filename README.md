@@ -1,1 +1,1 @@
-vibhu.github.io
+vibhu.github.io/portfolio
