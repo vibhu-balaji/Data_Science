@@ -1,6 +1,6 @@
 # Project Portfolio
 
-## EY Parthenon Private Equity Project: PEquity Matchmaker
+## 1. EY Parthenon Private Equity Project: PEquity Matchmaker
 
 **PEquity** is an AI-driven tool designed to help EY Parthenon analysts identify the most relevant private equity (PE) buyers for Spanish companies, accelerating deal origination in a competitive M&A landscape.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Olympics Spark Hadoop Analysis
+## 2. Olympics Spark Hadoop Analysis
 
 A comprehensive data engineering and analytics project leveraging Spark and Hadoop on Olympic datasets. The project delivers scalable big-data processing with actionable sports insights.
 
@@ -35,7 +35,7 @@ A comprehensive data engineering and analytics project leveraging Spark and Hado
 
 ---
 
-## F1 GOAT (Greatest of All Time) Analysis
+## 3. F1 GOAT (Greatest of All Time) Analysis
 
 A data-driven exploration to determine Formula 1’s Greatest of All Time (GOAT) drivers using historic and modern F1 statistics.
 
@@ -45,6 +45,21 @@ A data-driven exploration to determine Formula 1’s Greatest of All Time (GOAT)
   - Visualization and ranking using interactive dashboards and advanced analytics.
   - Accounting for context (era competitiveness, race counts, technical evolution) for fair comparisons.
 - **Deliverables:** Nuanced quantitative and qualitative analysis to compare all-time F1 greats—informing fans, analysts, and historians.
+
+---
+
+## 4. Repsol Datathon ML Models
+
+This project was submitted for the Repsol Datathon and focuses on energy sector analytics powered by advanced machine learning models. The project addresses forecasting and optimization challenges relevant to real-world oil & gas operations.
+
+- **Highlights:**
+  - Developed and evaluated multiple supervised learning models, including Random Forest, XGBoost, and CatBoost, for predictive analytics tasks.
+  - Engineered input features from complex, multi-source operational data—handling difficult time-series challenges and domain-specific anomalies.
+  - Applied ensemble techniques and automated model selection pipelines to achieve high accuracy and robustness.
+  - Implemented processes for data cleaning, feature extraction, train-test workflow automation, and hyperparameter tuning.
+  - Delivered actionable dashboards and visualizations for model diagnostics, feature importance, and operational recommendations.
+- **Result:** 
+  The solution consistently outperformed baseline benchmarks, demonstrating reliable predictions across unseen data scenarios. This project exemplifies best practices in applied data science: replicability, interpretability, and business-value-driven ML in the energy sector.
 
 ---
 
